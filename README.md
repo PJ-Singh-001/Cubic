@@ -1,5 +1,6 @@
 # Cubic
 Cubic (Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
+<center><img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/Cubic%20Start%20Page.png"/></center>
 
 Cubic permits effortless navigation through the ISO customization steps and features an integrated virtual command line environment to customize the Linux file system. You can create new customization projects or modify existing projects. Important parameters are dynamically populated with intelligent defaults to simplify the customization process.
 
