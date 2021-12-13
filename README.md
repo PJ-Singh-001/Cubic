@@ -10,10 +10,10 @@ Cubic permits effortless navigation through the ISO customization steps and feat
 
 Cubic supports Ubuntu 18.04.5 Bionic and above.
 
-    $ sudo apt-add-repository universe
-    $ sudo apt-add-repository ppa:cubic-wizard/release
-    $ sudo apt update
-    $ sudo apt install --no-install-recommends cubic
+    sudo apt-add-repository universe
+    sudo apt-add-repository ppa:cubic-wizard/release
+    sudo apt update
+    sudo apt install --no-install-recommends cubic
 
 ## Screenshots
 
