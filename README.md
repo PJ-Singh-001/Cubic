@@ -1,6 +1,6 @@
 # Cubic
 
-<img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/cubic_128x128.png" />
+<img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/cubic_512x512.png" height="128"/>
 
 **Cubic (Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.**
 
