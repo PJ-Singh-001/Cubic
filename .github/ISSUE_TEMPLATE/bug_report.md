@@ -19,10 +19,6 @@ Steps to reproduce the behavior.
 
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-
-If applicable, add screenshots to help explain your problem.
-
 **OS Information (please complete the following information):**
  - OS/Distro Name: [e.g. Ubuntu, Mint, Kubuntu]
  - OS Version [e.g. Ubuntu 21.10]
@@ -35,3 +31,7 @@ If applicable, add screenshots to help explain your problem.
 **Cubic Log:**
 
  Cut and paste the log after running `cubic` from the command line
+
+**Screenshots**
+
+If applicable, add screenshots to help explain your problem.

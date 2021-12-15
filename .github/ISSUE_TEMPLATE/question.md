@@ -28,10 +28,6 @@ Steps you already took.
 
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-
-If applicable, add screenshots to help explain your problem.
-
 **OS Information (please complete the following information):**
  - OS/Distro Name: [e.g. Ubuntu, Mint, Kubuntu]
  - OS Version [e.g. Ubuntu 21.10]
@@ -40,3 +36,7 @@ If applicable, add screenshots to help explain your problem.
  - Cubic Version: [e.g. 2021.12.67 from the About dialog, or 2021.12-67-release from `dpkg -l`]
  - ISO Customizing: [e.g. ubuntu-21.10-desktop-amd64.iso]
  - Download Link:  The download link for the ISO you are customizing
+
+**Screenshots**
+
+If applicable, add screenshots to help explain your problem.
