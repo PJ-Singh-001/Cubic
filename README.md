@@ -11,7 +11,7 @@ Cubic permits effortless navigation through the ISO customization steps and feat
 
 ## Install Cubic
 
-Cubic supports distributions based on Ubuntu 18.04.5 Bionic and above.
+Cubic runs on distributions based on Ubuntu 18.04.5 Bionic and above.
 
     sudo apt-add-repository universe
     sudo apt-add-repository ppa:cubic-wizard/release
