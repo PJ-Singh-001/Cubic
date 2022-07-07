@@ -30,7 +30,7 @@ A clear and concise description of what you expected to happen.
 
 **Cubic Log:**
 
- Cut and paste the log after running `cubic` from the command line
+ Cut and paste the log after running `cubic --verbose` from the command line
 
 **Screenshots**
 
