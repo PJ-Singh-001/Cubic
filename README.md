@@ -20,6 +20,8 @@ Cubic runs on distributions based on Ubuntu 18.04.5 Bionic and above.
     sudo apt update
     sudo apt install --no-install-recommends cubic
 
+[Debian installation instructions are here](https://github.com/PJ-Singh-001/Cubic/wiki/Install-Cubic).
+
 ## Screenshots
 
 [<img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/Cubic%20Start%20Page.png" width="256"/>](https://github.com/PJ-Singh-001/Cubic/wiki/Start-Page)
