@@ -6,6 +6,16 @@
 
 Cubic permits effortless navigation through the ISO customization steps and features an integrated virtual command line environment to customize the Linux file system. You can create new customization projects or modify existing projects. Important parameters are dynamically populated with intelligent defaults to simplify the customization process.
 
+Cubic runs on distributions based on:
+- Ubuntu 18.04.5 Bionic Beaver and above
+- Debian 11 Bullseye and above
+
+Cubic can be used to customize:
+- All versions of Ubuntu from 14.04 Trusty Tahr and above
+- Most distributions based on Ubuntu from 14.04 Trusty Tahr and above
+- Many versions of Debian (tested on Debian 11 Bullseye and above)
+- Many distributions based on Debian
+
 † Support for Debian was added in Cubic version 2022.11.73.
 
 ## Fund Cubic
