@@ -10,9 +10,9 @@ Cubic runs on distributions based on:
 - Ubuntu 18.04.5 Bionic Beaver and above
 - Debian 11 Bullseye and above
 
-Cubic can be used to customize:
+Cubic can be used to customize the Live ISOs for:
 - All versions of Ubuntu from 14.04 Trusty Tahr and above
-- Most distributions based on Ubuntu from 14.04 Trusty Tahr and above
+- Most distributions based on Ubuntu
 - Many versions of Debian (tested on Debian 11 Bullseye and above)
 - Many distributions based on Debian
 
