@@ -16,7 +16,7 @@ Cubic can be used to customize the Live ISOs for:
 - Many versions of Debian (tested on Debian 11 Bullseye and above)
 - Many distributions based on Debian
 
-## Fund Cubic
+## Support Cubic
 [<img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/donate_to_cubic_with_paypal.png" alt="Donate to Cubic with Paypal" height="64"/>](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5WJL2ZE3AWGQQ&currency_code=USD&source=url)    [<img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/donate_to_cubic_with_venmo_334x156.png" alt="Donate to Cubic with Paypal" height="64"/>](https://venmo.com/code?user_id=2990984925282304946&created=1639368328.1588511&printed=1)
 
 ## Install Cubic
